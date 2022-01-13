@@ -6,3 +6,7 @@ This is Part 2 of Short Exercise #1, where I am asking that you get familiar wit
 1. Print out Hello World
 2. Insert a Text cell and play around with markdown
 3. Build a quick function and test it
+
+---
+# Professor Urness' feedback
+(after you submit the assignment, Professor Urness will give feedback here)
